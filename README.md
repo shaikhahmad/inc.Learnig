@@ -1,3 +1,3 @@
-# Pytorch Implimentation of Matrix of Tast Memories(MTM)
+# Pytorch Implimentation of Matrix of Task Memories(MTM)
 
 ![Image description](networkArchitecture.png)
